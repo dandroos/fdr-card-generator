@@ -1,0 +1,20 @@
+{
+  "name": "fdr-cards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.0.0",
+    "moment": "^2.24.0",
+    "pdfkit": "^0.10.0",
+    "probe-image-size": "^5.0.0",
+    "request": "^2.88.0",
+    "sharp": "^0.23.2"
+  }
+}
